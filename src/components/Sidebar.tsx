@@ -3,7 +3,7 @@ import { Mail, Github, Linkedin } from "lucide-react";
 
 export const Sidebar = () => {
   return (
-    <aside className="w-64 min-h-screen bg-background border-r border-border p-8 flex flex-col">
+    <aside className="w-64 sticky top-0 h-screen bg-background border-r border-border p-8 flex flex-col">
       <div className="flex-1">
         {/* Header */}
         <div className="mb-8">
@@ -15,10 +15,10 @@ export const Sidebar = () => {
         <div className="mb-6">
           <div className="w-32 h-32 rounded-full bg-muted overflow-hidden mx-auto">
             <img 
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop" 
+              src="/images/my-photo.JPG" 
               alt="Profile" 
               className="w-full h-full object-cover"
-            />
+            />    
           </div>
         </div>
 
@@ -78,7 +78,7 @@ export const Sidebar = () => {
             <Mail size={20} />
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/farisnasser"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
@@ -87,7 +87,7 @@ export const Sidebar = () => {
             <Github size={20} />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/faris-nasser-089808255/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"

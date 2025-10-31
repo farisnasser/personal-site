@@ -32,7 +32,7 @@ export const MobileSidebar = () => {
             <div className="mb-6">
               <div className="w-24 h-24 rounded-full bg-muted overflow-hidden mx-auto">
                 <img 
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop" 
+                  src="/images/my-photo.JPG" 
                   alt="Profile" 
                   className="w-full h-full object-cover"
                 />
@@ -98,7 +98,7 @@ export const MobileSidebar = () => {
                 <Mail size={24} />
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/farisnasser"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
@@ -107,7 +107,7 @@ export const MobileSidebar = () => {
                 <Github size={24} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/faris-nasser-089808255/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
