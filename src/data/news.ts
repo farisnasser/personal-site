@@ -29,9 +29,9 @@ export const newsPosts: NewsPost[] = [
       "We won Sheraa's startupdojo+ and received a 10,000 AED grant which we put it straight back into Speak.ai. The best part wasn't the money, it was the honest feedback on our product and how engaging the pitch felt.",
     tags: ["Speak.ai", "competition", "grant"],
     images: [
-      "/images/StartupDojo+ 1.jpg",
-      "/images/StartupDojo+ 2.jpg",
-      "/images/StartupDojo+ 3.jpg",
+      "/images/StartupDojo_1.jpg",
+      "/images/StartupDojo_2.jpg",
+      "/images/StartupDojo_3.jpg",
     ],
   },
   {
