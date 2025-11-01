@@ -11,7 +11,7 @@ export const newsPosts: NewsPost[] = [
     date: "OCT 31, 2025",
     title: "Speak.ai wins the Zurich Foundation Best Business Idea Award",
     description:
-      "It has been a great pleasure to be pitching our business idea to the Zurich Foundations Building Resilient Futures World Tour. This competition allowed us to connect with a wide range of partners and investors in companies exiting all around the world. Getting feedback from all these experiences people was a highlight and I really am grateful seeing that my public speaking skills have significantly improved.",
+      "It has been a great pleasure to be pitching our business idea to the Zurich Foundations Building Resilient Futures World Tour. This competition allowed us to connect with a wide range of partners and investors from companies all around the world. Getting feedback from all these experienced people was a highlight and I really am grateful seeing that my public speaking skills have significantly improved.",
     tags: ["Speak.ai", "competition", "Zurich Foundation"],
     images: [
       "/images/Zurich1.jpg",
@@ -26,7 +26,7 @@ export const newsPosts: NewsPost[] = [
     date: "SEP 24, 2025",
     title: "Speak.ai wins the Sheraa Startup Dojo+ Competition",
     description:
-      "We won Sheraa's startupdojo+ and received a 10,000 AED grant which we put it straight back into Speak.ai. The best part wasn't the money, it was the honest feedback on our product and how engaging the pitch felt.",
+      "We won Sheraa's startupdojo+ and received a 10,000 AED grant which we put straight back into Speak.ai. The best part wasn't the money, it was the honest feedback on our product and how engaging the pitch felt.",
     tags: ["Speak.ai", "competition", "grant"],
     images: [
       "/images/StartupDojo_1.jpg",
@@ -49,7 +49,7 @@ export const newsPosts: NewsPost[] = [
     date: "AUG 15, 2025",
     title: "2nd year as an RA at KL Men's Dorms",
     description:
-      "Starting my second year as an RA. It's a simple thing, but showing up for freshmen and being a steady older-brother figure has been one of the most rewarding parts of my time at AUS.",
+      "Starting my second year as an RA. It has been a great way to support and build my own community by showing up for freshmen and being a steady older-brother figure. Safe to say that this has been one of the most rewarding parts of my time at AUS.",
     tags: ["RA", "community"],
     images: [
       "/images/RA pic1.jpg",
